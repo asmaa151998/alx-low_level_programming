@@ -6,7 +6,8 @@
  * separated by comma, followed by space 
  * number should be printed in order
  * @n: input
- */
+*/
+
 void print_to_98(int n)
 {
 	int x;
